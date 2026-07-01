@@ -1,0 +1,20 @@
+Business Problem:
+When two companies merge, their data usually cannot be combined safely right away. Each company may describe the same business concepts in different ways.
+For example, Company A may store customers in a field called cust_id and legal_name, while Company B uses client_code and account_name. Company A may define revenue as invoiced revenue, while Company B may define it as booked contract value. The same supplier may appear as “Global Parts Ltd” in one system and “Global Parts Limited” in another.
+This makes early merger reporting risky. Leadership may not know which customers overlap, whether revenue can be combined, which suppliers are shared, or whether the merged data is trustworthy.
+
+Goal:
+The goal of the POC is to quickly assess whether both companies’ data can support reliable merger reporting.
+It should help answer:
+Which fields from both companies mean the same thing?
+Which customers or suppliers may be duplicates?
+Which business definitions conflict?
+Which fields contain sensitive data?
+What data quality issues need to be fixed?
+Can leadership trust the merged view?
+
+Solution:
+Build an AI-assisted merger data readiness platform.
+The platform ingests sample datasets from both companies, such as customers, suppliers, contracts, invoices, and revenue files. It profiles the data, uses AI to suggest business meanings and field mappings, runs matching logic to detect possible shared customers or suppliers, checks data quality, and identifies sensitive information.
+For example, AI may suggest that legal_name from Company A and account_name from Company B both mean “Customer Name.” The backend can then use similarity libraries to detect that “Global Mining Ltd” and “Global Mining Limited” are probably the same customer, especially if country or tax ID also match.
+The output is a governed merged data product showing proposed mappings, likely duplicates, conflicting definitions, sensitive fields, data quality findings, and a trust score. Business users can then review and approve the results before using the merged data for reporting.

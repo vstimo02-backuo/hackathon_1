@@ -1,0 +1,18 @@
+staff_number,employee_name,dept_code,position,monthly_gross_gbp,start_date,email_address,reports_to,contract_type,site
+SB-001,Sarah Ionescu,SAL,Senior Account Executive,5800,10/03/2015,s.ionescu@company-b.example,SB-020,full-time,Bucharest
+SB-002,Michael Tan,SAL,Account Executive,4700,14/08/2016,m.tan@company-b.example,SB-021,full-time,Singapore
+SB-003,Rebecca Hughes,SAL,Strategic Account Manager,6500,30/05/2018,r.hughes@company-b.example,SB-021,full-time,London
+SB-004,Erik Lindqvist,SAL,Account Executive,5100,09/11/2020,e.lindqvist@company-b.example,SB-020,full-time,Stockholm
+SB-005,Chris Williams,SAL,Enterprise Account Manager,6200,17/03/2017,c.williams@company-b.example,SB-022,full-time,New York
+SB-006,Isabelle Blanc,SAL,Account Executive,4900,10/02/2021,i.blanc@company-b.example,SB-022,full-time,Paris
+SB-007,Emma Walsh,FIN,Finance Analyst,5000,22/08/2019,e.walsh@company-b.example,SB-030,full-time,London
+SB-008,Luca Bianchi,ENG,Backend Engineer,5700,05/05/2020,l.bianchi@company-b.example,SB-040,full-time,Milan
+SB-009,Priya Sharma,HR,People Partner,4800,14/01/2021,p.sharma@company-b.example,SB-050,full-time,London
+SB-010,David Rusu,SAL,Account Executive,4900,01/02/2020,d.rusu@company-b.example,SB-020,full-time,Bucharest
+SB-011,Youssef Benali,SAL,Account Executive,4600,08/09/2021,y.benali@company-b.example,SB-021,full-time,Casablanca
+SB-012,Hans Mueller,SAL,Senior Account Executive,5900,03/03/2016,h.mueller@company-b.example,SB-022,full-time,Munich
+SB-013,Anna Kowalski,OPS,Operations Lead,5400,20/04/2017,a.kowalski@company-b.example,SB-060,full-time,Warsaw
+SB-014,Arjun Mehta,ENG,Platform Engineer,5600,11/06/2021,a.mehta@company-b.example,SB-040,part-time,London
+SB-020,Karen O'Brien,SAL,Head of Sales EMEA,9500,12/04/2013,k.obrien@company-b.example,,full-time,London
+SB-021,James Lee,SAL,VP Sales APAC,10200,01/09/2012,j.lee@company-b.example,,full-time,Singapore
+SB-022,Natalie Dupont,SAL,VP Sales Americas,10800,15/11/2011,n.dupont@company-b.example,,full-time,New York

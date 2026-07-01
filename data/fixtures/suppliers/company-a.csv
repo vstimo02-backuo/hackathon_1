@@ -1,0 +1,11 @@
+supplier_id,vendor_name,country_code,vat_number,payment_terms_days,currency,ap_contact_email,procurement_category,annual_spend_eur,preferred_vendor
+SUP-001,Global Parts Ltd,RO,RO100100,45,EUR,ap@globalparts.example,manufacturing_components,380000.00,true
+SUP-002,Steelworks AG,DE,DE200200,60,EUR,invoices@steelworks.example,raw_materials,520000.00,true
+SUP-003,FastShip Logistics,NL,NL300300,30,EUR,billing@fastship.example,logistics_transport,190000.00,false
+SUP-004,CodeFactory Ltd,GB,GB400400789,30,GBP,accounts@codefactory.example,it_services,145000.00,true
+SUP-005,SolarTech Panels,ES,ESB500500,45,EUR,finance@solartech.example,energy_equipment,670000.00,true
+SUP-006,PaperWorks SA,FR,FR600600,30,EUR,ap@paperworks.example,office_supplies,28000.00,false
+SUP-007,ChemBase GmbH,DE,DE700700,60,EUR,billing@chembase.example,chemicals,310000.00,true
+SUP-008,DataSafe Corp,US,,30,USD,invoices@datasafe.example,software_licenses,95000.00,false
+SUP-009,FoodFirst Distribution,PL,PL8008001234,30,EUR,orders@foodfirst.example,catering_provisions,55000.00,false
+SUP-010,MedSupply International,CH,CHE900900,45,CHF,ap@medsupply.example,medical_equipment,440000.00,true

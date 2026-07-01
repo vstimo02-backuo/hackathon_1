@@ -1,0 +1,13 @@
+partner_code,company_name,country,tax_reference,net_payment_days,billing_currency,accounts_payable_email,spend_category,yearly_purchase_eur,strategic_partner
+P-001,Global Parts Limited,RO,RO100100,45,EUR,ap@globalparts.example,components,395000.00,Yes
+P-002,Steelworks AG,DE,DE200200,60,EUR,invoices@steelworks.example,raw_materials,510000.00,Yes
+P-003,FastShip B.V.,NL,NL300300,30,EUR,billing@fastship.example,transport,185000.00,No
+P-004,Code Factory Limited,GB,GB400400789,30,GBP,accounts@codefactory.example,it_software,152000.00,Yes
+P-005,SolarTech S.L.,ES,ESB500500,45,EUR,finance@solartech.example,equipment,655000.00,Yes
+P-006,Pacific Print SA,FR,,30,EUR,ap@pacificprint.example,office,31000.00,No
+P-007,ChemBase GmbH,DE,DE700700,60,EUR,billing@chembase.example,chemicals_raw,298000.00,Yes
+P-008,CloudSec Inc,US,,30,USD,billing@cloudsec.example,saas_licenses,88000.00,No
+P-009,Nordic Foods AS,NO,NO8765432MVA,30,EUR,orders@nordicfoods.example,food_catering,62000.00,No
+P-010,MedSupply International AG,CH,CHE900900,45,CHF,ap@medsupply.example,medical,447000.00,Yes
+P-011,Precision Moulds Ltd,GB,GB101010123,60,GBP,invoices@precisionmoulds.example,tooling,225000.00,Yes
+P-012,Bright Energy Kft,HU,HU20202020,30,EUR,energy@brightenergy.example,utilities,78000.00,No

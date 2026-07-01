@@ -1,0 +1,4 @@
+client_code,account_name,country,vat_number,revenue_definition
+B-9001,Global Mining Limited,RO,RO100100,booked_contract_value
+B-9002,North Star Retail,RO,RO100200,booked_contract_value
+B-9003,Harbor Supply BV,NL,NL900300,booked_contract_value

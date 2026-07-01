@@ -1,0 +1,11 @@
+client_code,account_name,jurisdiction,registration_tax_id,client_email,annual_revenue_usd,relationship_owner,client_since,segment,credit_terms_days
+B-2001,Global Mining Group,RO,RO100100,billing@globalmining.example,"490,000",David Rusu,15/03/2019,enterprise,45
+B-2002,North Star Retail S.R.L.,RO,RO100200,finance@northstar.example,"92,000",Elena Popa,22/07/2020,mid-market,30
+B-2003,Alpine Parts GmbH,DE,DE100300,ap@alpineparts.example,"345,000",Hans Mueller,01/11/2018,enterprise,60
+B-2004,TechCore S.A.,FR,FR200400,invoices@techcore.example,"189,000",Isabelle Blanc,10/02/2021,mid-market,30
+B-2005,Harbour Supply BV,NL,NL900300,accounts@harboursupply.example,"103,000",Pieter de Jong,05/09/2020,mid-market,30
+B-2006,Pacific Trade Corp,SG,SG12345678G,ar@pacifictrade.example,"520,000",Michael Tan,14/08/2016,enterprise,60
+B-2007,Stellarwind Energy plc,GB,GB987654321,billing@stellarwind.example,"1,200,000",Rebecca Hughes,30/05/2018,strategic,90
+B-2008,Nordic Freight AS,NO,NO123456789MVA,freight@nordicfreight.example,"275,000",Erik Lindqvist,09/11/2020,mid-market,45
+B-2009,Deltacore Systems LLC,US,EIN-12-3456789,ar@deltacore.example,"850,000",Chris Williams,17/03/2017,strategic,30
+B-2010,Maroc Agro Export SARL,MA,MA5678901,export@marocagro.example,"65,000",Youssef Benali,01/06/2022,small,30

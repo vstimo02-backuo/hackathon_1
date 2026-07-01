@@ -1,0 +1,11 @@
+cust_id,legal_name,country,tax_id,revenue_source,contract_value_eur,account_manager,onboarding_date,customer_tier,payment_terms_days
+A-1001,Global Mining Ltd,RO,RO100100,invoiced_revenue,450000.00,Sarah Ionescu,2019-03-15,gold,45
+A-1002,Northstar Retail SRL,RO,RO100200,invoiced_revenue,85000.00,Mihai Pop,2020-07-22,silver,30
+A-1003,Alpine Parts GmbH,DE,DE100300,booked_revenue,320000.00,Klaus Weber,2018-11-01,gold,60
+A-1004,TechCore Solutions,FR,FR200400,invoiced_revenue,175000.00,Claire Martin,2021-02-10,silver,30
+A-1005,Harbour Supply B.V.,NL,NL900300,booked_revenue,95000.00,Jan Visser,2020-09-05,bronze,30
+A-1006,Meridian Logistics SA,CH,CHE123456,invoiced_revenue,280000.00,Sarah Ionescu,2017-06-12,gold,45
+A-1007,Blue River Analytics Ltd,GB,GB123456789,recognized_revenue,60000.00,James Carter,2022-04-18,bronze,30
+A-1008,Quantum Retail GmbH,AT,ATU98765432,invoiced_revenue,140000.00,Klaus Weber,2021-08-30,silver,45
+A-1009,Ironclad Manufacturing,PL,PL5678901234,booked_revenue,220000.00,Anna Kowalski,2019-12-03,gold,60
+A-1010,Sunrise Pharma S.A.,ES,ESB12345678,recognized_revenue,390000.00,Maria Garcia,2020-01-28,gold,45

@@ -1,0 +1,15 @@
+learner_ref,given_name,family_name,birth_date,year_group,homeroom,parent_email,admission_date,academic_average,support_plan_active
+LR-5001,Emma,Johnson,12/04/2010,Year 8,8-North,parent.johnson@email.example,01/09/2022,87,No
+LR-5002,Liam,Rodriguez,28/11/2009,Year 9,9-East,rodriguez.family@email.example,01/09/2021,74,No
+LR-5003,Sofia,Chen,15/02/2010,Year 8,8-South,chen.parents@email.example,01/09/2022,91,No
+LR-5004,Lucas,Patel,03/07/2009,Year 9,9-West,patel.guardian@email.example,01/09/2021,63,Yes
+LR-5005,Ava,Williams,19/09/2011,Year 7,7-North,williams.home@email.example,01/09/2023,79,No
+LR-5006,James,Brown,05/12/2008,Year 10,10-East,brown.parents@email.example,01/09/2020,68,Yes
+LR-5007,Sophie,Davis,22/06/2010,Year 8,8-North,davis.family@email.example,01/09/2022,95,No
+LR-5008,Mason,Wilson,14/03/2009,Year 9,9-East,wilson.guardian@email.example,01/09/2021,71,No
+LR-5009,Isabella,Martinez,30/08/2008,Year 10,10-South,martinez.parents@email.example,01/09/2020,84,No
+LR-5010,Ethan,Anderson,17/01/2011,Year 7,7-West,anderson.home@email.example,01/09/2023,77,No
+LR-5011,Charlotte,Taylor,09/05/2007,Year 11,11-North,taylor.guardian@email.example,01/09/2019,82,No
+LR-5012,William,Thomas,21/10/2009,Year 9,9-West,thomas.family@email.example,01/09/2021,,Yes
+LR-5013,Aisha,Okonkwo,14/07/2010,Year 8,8-South,okonkwo.guardian@email.example,01/09/2022,88,No
+LR-5014,Finn,O'Sullivan,02/03/2008,Year 10,10-North,osullivan.parents@email.example,01/09/2020,72,No

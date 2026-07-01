@@ -1,0 +1,16 @@
+emp_id,full_name,department,job_title,salary_eur,hire_date,work_email,manager_id,employment_type,office_location
+E-101,Sarah Ionescu,Sales,Senior Account Manager,72000,2015-03-10,s.ionescu@company-a.example,E-201,permanent,Bucharest
+E-102,Mihai Pop,Sales,Account Manager,58000,2019-07-15,m.pop@company-a.example,E-201,permanent,Bucharest
+E-103,Klaus Weber,Sales,Senior Account Manager,78000,2014-05-22,k.weber@company-a.example,E-202,permanent,Berlin
+E-104,Claire Martin,Sales,Account Manager,61000,2020-02-28,c.martin@company-a.example,E-202,permanent,Paris
+E-105,Jan Visser,Sales,Account Manager,60000,2019-11-04,j.visser@company-a.example,E-203,permanent,Amsterdam
+E-106,James Carter,Finance,Financial Analyst,65000,2021-09-13,j.carter@company-a.example,E-301,permanent,London
+E-107,Anna Kowalski,Operations,Operations Manager,68000,2017-04-20,a.kowalski@company-a.example,E-401,permanent,Warsaw
+E-108,Maria Garcia,Sales,Senior Account Manager,74000,2016-08-11,m.garcia@company-a.example,E-203,permanent,Madrid
+E-109,Tom Andrei,Engineering,Software Engineer,71000,2022-01-17,t.andrei@company-a.example,E-501,permanent,Bucharest
+E-110,Diana Stoica,HR,HR Business Partner,59000,2020-06-09,d.stoica@company-a.example,E-601,permanent,Bucharest
+E-111,Florin Munteanu,Engineering,DevOps Engineer,73000,2021-03-22,f.munteanu@company-a.example,E-501,contractor,Bucharest
+E-112,Agnieszka Nowak,Operations,Procurement Specialist,55000,2022-09-05,a.nowak@company-a.example,E-401,permanent,Warsaw
+E-201,Roxana Dinu,Sales,VP Sales EMEA,115000,2012-09-01,r.dinu@company-a.example,,permanent,Bucharest
+E-203,Pedro Alves,Sales,Regional Director,98000,2013-04-14,p.alves@company-a.example,,permanent,Madrid
+E-301,Georg Brandt,Finance,CFO,130000,2011-07-01,g.brandt@company-a.example,,permanent,Berlin

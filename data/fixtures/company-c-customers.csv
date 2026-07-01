@@ -1,0 +1,6 @@
+customer_number,customer_nam,jurisdiction,registration_tax_id,email
+C-7001,Global Mining Group,RO,RO100100,ap@globalmining.example
+C-7002,Northstar Retail S.R.L.,RO,RO100200,finance@northstarretail.example
+C-7003,Alpine Parts GmbH,DE,DE100300,billing@alpineparts.example
+C-7004,Harbour Supply B.V.,NL,NL900300,accounts@harboursupply.example
+C-7005,Delta Energy SA,FR,FR700500,invoices@deltaenergy.example

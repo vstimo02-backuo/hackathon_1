@@ -1,0 +1,4 @@
+cust_id,legal_name,country,tax_id,revenue_source
+A-1001,Global Mining Ltd,RO,RO100100,invoiced_revenue
+A-1002,Northstar Retail SRL,RO,RO100200,invoiced_revenue
+A-1003,Alpine Parts GmbH,DE,DE100300,invoiced_revenue
